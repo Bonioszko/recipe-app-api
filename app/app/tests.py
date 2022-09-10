@@ -1,7 +1,6 @@
 """Ample test"""
-
-from app import calc
 from django.test import SimpleTestCase
+from app import calc
 
 
 class CalcTests(SimpleTestCase):
